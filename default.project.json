@@ -1,0 +1,23 @@
+{
+  "name": "rojo-test",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+
+    "StarterPlayer": {
+      "StarterCharacterScripts": {
+        "$path": "src/StarterCharacterScripts"
+      },
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayerScripts"
+      }
+    }
+  }
+}
