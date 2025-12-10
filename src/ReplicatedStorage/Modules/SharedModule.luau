@@ -1,0 +1,3 @@
+local sharedModule = {}
+
+return sharedModule
